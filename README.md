@@ -5,11 +5,11 @@ Full-Stack Developer focused on building scalable, secure, and real-world produc
 I don’t just write code, I solve problems, ship fast, and think in systems.
 
 🚀 About Me
-💻 Full-stack developer with strong experience in MERN, Next.js, and modern backend systems
-🔐 Passionate about security, performance, and clean architecture
-⚡ Building impactful platforms like coaching systems, admin dashboards, and real-time apps
-🎯 Focused on real-world execution, not just theory
-🌍 Open to global opportunities and collaborations
+ Full-stack developer with strong experience in MERN, Next.js, and modern backend systems
+ Passionate about security, performance, and clean architecture
+ Building impactful platforms like coaching systems, admin dashboards, and real-time apps
+ Focused on real-world execution, not just theory
+ Open to global opportunities and collaborations
 
 🧠 What I Bring
 Scalable backend design (Node.js, Express,FastApi, MongoDB,Postgres)
