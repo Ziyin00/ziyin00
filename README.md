@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi there 👋, I'm Ziyin
 
-<!--
-**Ziyin00/ziyin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on building scalable, secure, and real-world products.
 
-Here are some ideas to get you started:
+I don’t just write code, I solve problems, ship fast, and think in systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+💻 Full-stack developer with strong experience in MERN, Next.js, and modern backend systems
+🔐 Passionate about security, performance, and clean architecture
+⚡ Building impactful platforms like coaching systems, admin dashboards, and real-time apps
+🎯 Focused on real-world execution, not just theory
+🌍 Open to global opportunities and collaborations
+
+🧠 What I Bring
+Scalable backend design (Node.js, Express,FastApi, MongoDB,Postgres)
+Modern frontend development (React, Next.js, Tailwind)
+Secure systems (auth, payments, private messaging)
+Real-time architecture (WebSockets, Socket.io)
+Clean, maintainable, production-ready code
+CREATIVITY
+
+🔥 Current Focus
+Advanced backend systems & system design
+DevOps & scalable deployments
+Building Coachi - a secure coaching platform
+
+📌 Selected Work
+🧩 Coaching Platform (Coachi) — secure chat, payments, sessions
+🏦 Admin dashboards with full user management
+📝 Blog systems with full-stack architecture
+🌐 Production-ready client projects
+📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/ziyin00
+
+⚡ Philosophy
+Clean code. Clear thinking. Real impact.
