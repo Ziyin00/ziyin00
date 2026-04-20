@@ -25,11 +25,11 @@ DevOps & scalable deployments
 Building Coachi - a secure coaching platform
 
 📌 Selected Work
-🧩 Coaching Platform (Coachi) — secure chat, payments, sessions
-🏦 Admin dashboards with full user management
-📝 Blog systems with full-stack architecture
-🌐 Production-ready client projects
-📫 Connect With Me
+ Coaching Platform (Coachi) — secure chat, payments, sessions
+ Admin dashboards with full user management
+ Blog systems with full-stack architecture
+ Production-ready client projects
+ Connect With Me
 LinkedIn: https://www.linkedin.com/in/ziyin00
 
 ⚡ Philosophy
